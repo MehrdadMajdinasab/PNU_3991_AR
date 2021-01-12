@@ -17,7 +17,7 @@
 - [Pressman Presentation](https://github.com/MehrdadMajdinasab/PNU_3991_AR/tree/main/SoftwareProjectManagement/PressMan%20Presentation)
 
 ------------------
-## Winter Semester Courses 1399/2020
+## پاییز 1399
 
 
 1. G-U01
