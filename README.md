@@ -28,5 +28,5 @@
 
 |     14-16     | 08-10          |  روز    |
 | ------------- |:-------------:|--------:|
-|               | [الگوریتم های پیشرفته](https://github.com/md-akhi/PNU_3991_AR/tree/main/SoftwareProjectManagement)|چهارشنبه |
-|[ مديريت پروژه هاي نرم افزاري](https://github.com/md-akhi/PNU_3991_AR/tree/main/SoftwareProjectManagement)      | |پنج شنبه |
+|               | [الگوریتم های پیشرفته](https://github.com/MehrdadMajdinasab/PNU_3991_AR/tree/main/Advanced%20Algorithms)|چهارشنبه |
+|[ مديريت پروژه هاي نرم افزاري](https://github.com/MehrdadMajdinasab/PNU_3991_AR/tree/main/SoftwareProjectManagement)      | |پنج شنبه |
