@@ -18,15 +18,10 @@
 
 ## دروس ارشد
 
-1115026_01 مهندسي نرم افزار1	   3
 
-1115280_01 پردازش موازی  	3
+[۱۱۱۵۲۷۲_۰۱      مديريت پروژه هاي نرم افزاري](https://github.com/MehrdadMajdinasab/PNU_3991_AR/tree/main/SoftwareProjectManagement)
 
-[۱۱۱۵۲۷۲_۰۱     مديريت پروژه هاي نرم افزاري](https://github.com/md-akhi/PNU_3991_AR/tree/main/SoftwareProjectManagement)
-
-[۱۱۱۵۰۲۹_۰۲    1سمینار](https://github.com/md-akhi/PNU_3991_AR/tree/main/MscSeminar-1)
-
-[۱۱۱۵۲۵۷_۰۳    سمینار2](https://github.com/md-akhi/PNU_3991_AR/tree/main/MscSeminar-2)
+[۱۱۱۵۰۲۵_۰۱     الگوریتم های پیشرفته](https://github.com/MehrdadMajdinasab/PNU_3991_AR/tree/main/Advanced%20Algorithms)
 
 --------------
 ## روز و ساعت ارائه دروس
