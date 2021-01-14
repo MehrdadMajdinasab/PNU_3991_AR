@@ -5,8 +5,8 @@
 - [GitHub Account](https://github.com/mehrdadmajdinasab)
 - [Resume](https://mehrdadmajdinasab.github.io)
 - [SOP](https://mehrdadmajdinasab.github.io/SOP)
-- [PatchWork](https://github.com/MehrdadMajdinasab/PNU_3991_AR/tree/main/SoftwareProjectManagement/PatchWork)
-- [JavaScriptCertificate](https://github.com/MehrdadMajdinasab/PNU_3991_AR/tree/main/SoftwareProjectManagement/JS%20Certificate)
+- [PatchWork](https://github.com/MehrdadMajdinasab/PNU_3991_AR/tree/main/General/PatchWork)
+- [JavaScriptCertificate](https://github.com/MehrdadMajdinasab/PNU_3991_AR/tree/main/General/JS%20Certificate)
 ---
 ##  بخش عمومی
 - [ارزیابی رزومه و انگیزه نامه](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/_General/SZ_CV_CheckList_AR_3991.pdf)
